@@ -15,7 +15,6 @@ Source0:	%{src_name}-%{version}.tar.bz2
 # Thanks to Gentoo.
 Patch0:		%{src_name}-%{version}-errno.patch.bz2
 
-BuildRoot:	%{_tmppath}/%{src_name}-%{version}-root
 
 %description
 cdb is a fast, reliable, lightweight package for
