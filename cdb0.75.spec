@@ -1,7 +1,7 @@
 %define	name      cdb0.75
 %define	src_name  cdb
 %define version   0.75
-%define release   %mkrel 3
+%define release   %mkrel 4
 
 Summary:	Constant DataBase
 Name:		%{name}
