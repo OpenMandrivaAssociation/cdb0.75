@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%{release}
 License:	Public Domain
 Group:		Databases
-URL:		http://cr.yp.to/cdb.html
+URL:		https://cr.yp.to/cdb.html
 Source0:	%{src_name}-%{version}.tar.bz2
 
 # Thanks to Gentoo.
