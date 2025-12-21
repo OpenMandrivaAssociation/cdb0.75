@@ -17,6 +17,7 @@ Patch0:		%{src_name}-%{version}-errno.patch.bz2
 
 BuildRoot:	%{_tmppath}/%{src_name}-%{version}-root
 
+BuildRequires:	make
 %description
 cdb is a fast, reliable, lightweight package for
 creating and reading constant databases.
